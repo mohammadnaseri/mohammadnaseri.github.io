@@ -14,4 +14,5 @@ redirect_from:
 * I received my Bachelor’s Degree in [Iran University of Science and Technology](http://www.iust.ac.ir/en).
 
 ## News
-* Test
+* **[January 2021]** I gave a talk in London Pytorch Meetup about privacy and robustness in federated learning. 
+* **[December 2020]** Program Committee shadow member of 42nd IEEE Symposium on Security and Privacy, IEEE S&P 2021!
